@@ -1,1 +1,1 @@
-# CS201
+# CS201 Carleton College Code
